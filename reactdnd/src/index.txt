@@ -1,0 +1,25 @@
+scene kuch esa hai k is mein cards system hai.
+
+cards initiate hoye hein itemtypes.js mein.
+
+wahan se Card ko access kia gaya hai Card.js mein.
+
+saari functionality drag waghera ki udhr hai.
+
+us k baad wahan se export ho kr example.js mein gaya hai mawaad.
+
+whan dummy data mojood hai isi liye u have to paste the data.
+
+wahan ooper ooper ki func ha. backend waala, monitor wali func Card.js mein hai.
+
+now it your job to paste the data. shayd tm direct data ko 
+Itemstypes.js se manupulate krskte ho.
+
+after cloning ::
+
+npm install,
+npm install immutability-helper --save
+npm install react-dnd
+npm install react-dom
+npm install --save react-dnd
+npm install --save react-dnd-html5-backend
